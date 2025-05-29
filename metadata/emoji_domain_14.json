@@ -1,0 +1,37 @@
+{
+  "name": "🚀🔥🎯🌍 Domain",
+  "symbol": "EMJDOM",
+  "description": "Emoji Domain NFT for the sequence: 🚀🔥🎯🌍",
+  "seller_fee_basis_points": 500,
+  "image": "https://georgemac510.github.io/emoji-nft-images/images/rocket.png",
+  "external_url": "https://georgemac510.github.io/emoji-nft-images/emoji/%F0%9F%9A%80%F0%9F%94%A5%F0%9F%8E%AF%F0%9F%8C%8D",
+  "attributes": [
+    {
+      "trait_type": "Emoji Count",
+      "value": 1
+    },
+    {
+      "trait_type": "Domain ID",
+      "value": 14
+    },
+    {
+      "trait_type": "Emoji 1",
+      "value": "🚀🔥🎯🌍"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://georgemac510.github.io/emoji-nft-images/images/rocket.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "35HcHM5tTGtgP4fHxPTLxKzGksPv2EHpP3cP5CRivEaj",
+        "share": 100
+      }
+    ]
+  }
+}
