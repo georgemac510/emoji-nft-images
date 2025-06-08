@@ -1,14 +1,14 @@
 {
   "name": "🚀🔥 Domain",
   "symbol": "EMJDOM",
-  "description": "Emoji Domain NFT for the sequence: 🚀🔥. This NFT represents ownership of a unique emoji domain with 1 emojis.",
+  "description": "Emoji Domain NFT for the sequence: 🚀🔥. This NFT represents ownership of a unique emoji domain with 2 emojis.",
   "seller_fee_basis_points": 500,
   "image": "https://georgemac510.github.io/emoji-nft-images/images/emoji_domain_2_composite.png",
   "external_url": "https://georgemac510.github.io/emoji-nft-images/emoji/%F0%9F%9A%80%F0%9F%94%A5",
   "attributes": [
     {
       "trait_type": "Emoji Count",
-      "value": 1
+      "value": 2
     },
     {
       "trait_type": "Domain ID",
@@ -16,17 +16,21 @@
     },
     {
       "trait_type": "Image Type",
-      "value": "Single Emoji"
+      "value": "Composite"
     },
     {
       "trait_type": "Emoji 1",
-      "value": "🚀🔥"
+      "value": "🚀"
+    },
+    {
+      "trait_type": "Emoji 2",
+      "value": "🔥"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://georgemac510.github.io/emoji-nft-images/images/generated-images/emoji_domain_2_composite.png",
+        "uri": "https://georgemac510.github.io/emoji-nft-images/images/emoji_domain_2_composite.png",
         "type": "image/png"
       }
     ],
