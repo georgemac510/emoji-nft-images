@@ -1,0 +1,41 @@
+{
+  "name": "🎲♥️  Domain",
+  "symbol": "EMJDOM",
+  "description": "Emoji Domain NFT for the sequence: 🎲♥️ ",
+  "seller_fee_basis_points": 500,
+  "image": "https://georgemac510.github.io/emoji-nft-images/images/emoji_domain_9_composite.png",
+  "external_url": "https://georgemac510.github.io/emoji-nft-images/emoji/%F0%9F%8E%B2%E2%99%A5%EF%B8%8F%20",
+  "attributes": [
+    {
+      "trait_type": "Emoji Count",
+      "value": 2
+    },
+    {
+      "trait_type": "Domain ID",
+      "value": 9
+    },
+    {
+      "trait_type": "Emoji 1",
+      "value": "🎲"
+    },
+    {
+      "trait_type": "Emoji 2",
+      "value": "♥"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://georgemac510.github.io/emoji-nft-images/images/emoji_domain_9_composite.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "35HcHM5tTGtgP4fHxPTLxKzGksPv2EHpP3cP5CRivEaj",
+        "share": 100
+      }
+    ]
+  }
+}
