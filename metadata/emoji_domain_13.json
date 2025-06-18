@@ -1,14 +1,14 @@
 {
-  "name": "🎮♥️ 🏃🎲 Domain",
+  "name": "🏃🔥🚀🎯 Domain",
   "symbol": "EMJDOM",
-  "description": "Emoji Domain NFT for the sequence: 🎮♥️ 🏃🎲",
+  "description": "Emoji Domain NFT for the sequence: 🏃🔥🚀🎯",
   "seller_fee_basis_points": 500,
-  "image": "https://georgemac510.github.io/emoji-nft-images/images/game.png",
-  "external_url": "https://georgemac510.github.io/emoji-nft-images/emoji/%F0%9F%8E%AE%E2%99%A5%EF%B8%8F%20%F0%9F%8F%83%F0%9F%8E%B2",
+  "image": "https://georgemac510.github.io/emoji-nft-images/images/emoji_domain_13_composite.png",
+  "external_url": "https://georgemac510.github.io/emoji-nft-images/emoji/%F0%9F%8F%83%F0%9F%94%A5%F0%9F%9A%80%F0%9F%8E%AF",
   "attributes": [
     {
       "trait_type": "Emoji Count",
-      "value": 2
+      "value": 4
     },
     {
       "trait_type": "Domain ID",
@@ -16,17 +16,25 @@
     },
     {
       "trait_type": "Emoji 1",
-      "value": "🎮♥"
+      "value": "🏃"
     },
     {
       "trait_type": "Emoji 2",
-      "value": "🏃🎲"
+      "value": "🔥"
+    },
+    {
+      "trait_type": "Emoji 3",
+      "value": "🚀"
+    },
+    {
+      "trait_type": "Emoji 4",
+      "value": "🎯"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://georgemac510.github.io/emoji-nft-images/images/game.png",
+        "uri": "https://georgemac510.github.io/emoji-nft-images/images/emoji_domain_13_composite.png",
         "type": "image/png"
       }
     ],
